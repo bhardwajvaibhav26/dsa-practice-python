@@ -25,6 +25,8 @@ Warm-up with nested loops. No LeetCode equivalent — practice by printing shape
 
 ---
 
+
+
 ## `basics/loops` — Loops & Conditions
 
 Build loop intuition before patterns. LeetCode easy warm-ups.
@@ -40,6 +42,8 @@ Build loop intuition before patterns. LeetCode easy warm-ups.
 
 ---
 
+
+
 ## `basics/math` — Basic Math
 
 Number tricks and simple math before advanced topics.
@@ -54,6 +58,8 @@ Number tricks and simple math before advanced topics.
 - [ ] **Sqrt(x)** `Easy` — [LeetCode](https://leetcode.com/problems/sqrtx/)
 
 ---
+
+
 
 ## `arrays` — Arrays & Hashing
 
@@ -84,6 +90,8 @@ Hash maps, sets, prefix sums, array tricks. **(22 problems)**
 
 ---
 
+
+
 ## `two_pointers` — Two Pointers
 
 Sorted arrays, pairs, palindromes, in-place removal. **(13 problems)**
@@ -104,6 +112,8 @@ Sorted arrays, pairs, palindromes, in-place removal. **(13 problems)**
 
 ---
 
+
+
 ## `sliding_window` — Sliding Window
 
 Fixed and variable contiguous windows. **(9 problems)**
@@ -119,6 +129,8 @@ Fixed and variable contiguous windows. **(9 problems)**
 - [ ] **Sliding Window Maximum** `Hard` — [LeetCode](https://leetcode.com/problems/sliding-window-maximum/) | [NeetCode](https://neetcode.io/problems/sliding-window-maximum?list=neetcode250)
 
 ---
+
+
 
 ## `stack` — Stack
 
@@ -142,6 +154,8 @@ Parentheses, monotonic stack, evaluate expressions. **(15 problems)**
 
 ---
 
+
+
 ## `binary_search` — Binary Search
 
 Search sorted data and binary search on answer. **(14 problems)**
@@ -163,6 +177,8 @@ Search sorted data and binary search on answer. **(14 problems)**
 
 ---
 
+
+
 ## `linked_list` — Linked List
 
 Reverse, merge, cycle, reorder pointers. **(14 problems)**
@@ -183,6 +199,8 @@ Reverse, merge, cycle, reorder pointers. **(14 problems)**
 - [ ] **Reverse Nodes In K Group** `Hard` — [LeetCode](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [NeetCode](https://neetcode.io/problems/reverse-nodes-in-k-group?list=neetcode250)
 
 ---
+
+
 
 ## `trees` — Trees (+ Tries)
 
@@ -211,6 +229,9 @@ DFS, BFS, BST, and trie prefix problems. **(27 problems)**
 - [ ] **Delete Leaves With a Given Value** `Medium` — [LeetCode](https://leetcode.com/problems/delete-leaves-with-a-given-value) | [NeetCode](https://neetcode.io/problems/delete-leaves-with-a-given-value?list=neetcode250)
 - [ ] **Binary Tree Maximum Path Sum** `Hard` — [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [NeetCode](https://neetcode.io/problems/binary-tree-maximum-path-sum?list=neetcode250)
 - [ ] **Serialize And Deserialize Binary Tree** `Hard` — [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [NeetCode](https://neetcode.io/problems/serialize-and-deserialize-binary-tree?list=neetcode250)
+
+
+
 ### Tries
 
 - [ ] **Implement Trie Prefix Tree** `Medium` — [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | [NeetCode](https://neetcode.io/problems/implement-prefix-tree?list=neetcode250)
@@ -219,6 +240,8 @@ DFS, BFS, BST, and trie prefix problems. **(27 problems)**
 - [ ] **Word Search II** `Hard` — [LeetCode](https://leetcode.com/problems/word-search-ii/) | [NeetCode](https://neetcode.io/problems/search-for-word-ii?list=neetcode250)
 
 ---
+
+
 
 ## `graphs` — Graphs (+ Advanced Graphs)
 
@@ -245,6 +268,9 @@ BFS/DFS, topo sort, shortest path, union find. **(31 problems)**
 - [ ] **Evaluate Division** `Medium` — [LeetCode](https://leetcode.com/problems/evaluate-division/) | [NeetCode](https://neetcode.io/problems/evaluate-division?list=neetcode250)
 - [ ] **Minimum Height Trees** `Medium` — [LeetCode](https://leetcode.com/problems/minimum-height-trees) | [NeetCode](https://neetcode.io/problems/minimum-height-trees?list=neetcode250)
 - [ ] **Word Ladder** `Hard` — [LeetCode](https://leetcode.com/problems/word-ladder/) | [NeetCode](https://neetcode.io/problems/word-ladder?list=neetcode250)
+
+
+
 ### Advanced Graphs
 
 - [ ] **Path with Minimum Effort** `Medium` — [LeetCode](https://leetcode.com/problems/path-with-minimum-effort/) | [NeetCode](https://neetcode.io/problems/path-with-minimum-effort?list=neetcode250)
@@ -259,6 +285,8 @@ BFS/DFS, topo sort, shortest path, union find. **(31 problems)**
 - [ ] **Greatest Common Divisor Traversal** `Hard` — [LeetCode](https://leetcode.com/problems/greatest-common-divisor-traversal) | [NeetCode](https://neetcode.io/problems/greatest-common-divisor-traversal?list=neetcode250)
 
 ---
+
+
 
 ## `backtracking` — Backtracking
 
@@ -283,6 +311,8 @@ Subsets, permutations, combinations, constraint search. **(16 problems)**
 
 ---
 
+
+
 ## `dynamic_programming` — Dynamic Programming
 
 1-D and 2-D DP state transitions. **(33 problems)**
@@ -306,6 +336,9 @@ Subsets, permutations, combinations, constraint search. **(16 problems)**
 - [ ] **Perfect Squares** `Medium` — [LeetCode](https://leetcode.com/problems/perfect-squares/) | [NeetCode](https://neetcode.io/problems/perfect-squares?list=neetcode250)
 - [ ] **Integer Break** `Medium` — [LeetCode](https://leetcode.com/problems/integer-break/) | [NeetCode](https://neetcode.io/problems/integer-break?list=neetcode250)
 - [ ] **Stone Game III** `Hard` — [LeetCode](https://leetcode.com/problems/stone-game-iii/) | [NeetCode](https://neetcode.io/problems/stone-game-iii?list=neetcode250)
+
+
+
 ### 2-D Dynamic Programming
 
 - [ ] **Unique Paths** `Medium` — [LeetCode](https://leetcode.com/problems/unique-paths/) | [NeetCode](https://neetcode.io/problems/count-paths?list=neetcode250)
@@ -327,6 +360,8 @@ Subsets, permutations, combinations, constraint search. **(16 problems)**
 
 ---
 
+
+
 ## `greedy` — Greedy (+ Intervals + Heap)
 
 Local optimal choices, scheduling, priority queue. **(33 problems)**
@@ -345,6 +380,9 @@ Local optimal choices, scheduling, priority queue. **(33 problems)**
 - [ ] **Car Pooling** `Medium` — [LeetCode](https://leetcode.com/problems/car-pooling/) | [NeetCode](https://neetcode.io/problems/car-pooling?list=neetcode250)
 - [ ] **Find Median From Data Stream** `Hard` — [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | [NeetCode](https://neetcode.io/problems/find-median-in-a-data-stream?list=neetcode250)
 - [ ] **IPO** `Hard` — [LeetCode](https://leetcode.com/problems/ipo/) | [NeetCode](https://neetcode.io/problems/ipo?list=neetcode250)
+
+
+
 ### Greedy
 
 - [ ] **Lemonade Change** `Easy` — [LeetCode](https://leetcode.com/problems/lemonade-change/) | [NeetCode](https://neetcode.io/problems/lemonade-change?list=neetcode250)
@@ -361,6 +399,9 @@ Local optimal choices, scheduling, priority queue. **(33 problems)**
 - [ ] **Partition Labels** `Medium` — [LeetCode](https://leetcode.com/problems/partition-labels/) | [NeetCode](https://neetcode.io/problems/partition-labels?list=neetcode250)
 - [ ] **Valid Parenthesis String** `Medium` — [LeetCode](https://leetcode.com/problems/valid-parenthesis-string/) | [NeetCode](https://neetcode.io/problems/valid-parenthesis-string?list=neetcode250)
 - [ ] **Candy** `Hard` — [LeetCode](https://leetcode.com/problems/candy/) | [NeetCode](https://neetcode.io/problems/candy?list=neetcode250)
+
+
+
 ### Intervals
 
 - [ ] **Insert Interval** `Medium` — [LeetCode](https://leetcode.com/problems/insert-interval/) | [NeetCode](https://neetcode.io/problems/insert-new-interval?list=neetcode250)
@@ -372,6 +413,8 @@ Local optimal choices, scheduling, priority queue. **(33 problems)**
 - [ ] **Minimum Interval to Include Each Query** `Hard` — [LeetCode](https://leetcode.com/problems/minimum-interval-to-include-each-query/) | [NeetCode](https://neetcode.io/problems/minimum-interval-including-query?list=neetcode250)
 
 ---
+
+
 
 ## `math` — Math & Geometry (+ Bit Manipulation)
 
@@ -392,6 +435,9 @@ Geometry, formulas, bitwise tricks. **(23 problems)**
 - [ ] **Pow(x, n)** `Medium` — [LeetCode](https://leetcode.com/problems/powx-n/) | [NeetCode](https://neetcode.io/problems/pow-x-n?list=neetcode250)
 - [ ] **Multiply Strings** `Medium` — [LeetCode](https://leetcode.com/problems/multiply-strings/) | [NeetCode](https://neetcode.io/problems/multiply-strings?list=neetcode250)
 - [ ] **Detect Squares** `Medium` — [LeetCode](https://leetcode.com/problems/detect-squares/) | [NeetCode](https://neetcode.io/problems/count-squares?list=neetcode250)
+
+
+
 ### Bit Manipulation
 
 - [ ] **Single Number** `Easy` — [LeetCode](https://leetcode.com/problems/single-number/) | [NeetCode](https://neetcode.io/problems/single-number?list=neetcode250)
@@ -407,20 +453,25 @@ Geometry, formulas, bitwise tricks. **(23 problems)**
 
 ---
 
+
+
 ## Quick stats
 
-| Folder | NeetCode problems |
-|--------|-------------------|
-| `arrays` | 22 |
-| `two_pointers` | 13 |
-| `sliding_window` | 9 |
-| `stack` | 15 |
-| `binary_search` | 14 |
-| `linked_list` | 14 |
-| `trees` | 27 |
-| `graphs` | 31 |
-| `backtracking` | 16 |
-| `dynamic_programming` | 33 |
-| `greedy` | 33 |
-| `math` | 23 |
-| **Total** | **250** |
+
+| Folder                | NeetCode problems |
+| --------------------- | ----------------- |
+| `arrays`              | 22                |
+| `two_pointers`        | 13                |
+| `sliding_window`      | 9                 |
+| `stack`               | 15                |
+| `binary_search`       | 14                |
+| `linked_list`         | 14                |
+| `trees`               | 27                |
+| `graphs`              | 31                |
+| `backtracking`        | 16                |
+| `dynamic_programming` | 33                |
+| `greedy`              | 33                |
+| `math`                | 23                |
+| **Total**             | **250**           |
+
+
