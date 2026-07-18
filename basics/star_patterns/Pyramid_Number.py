@@ -19,7 +19,7 @@ def generate (n):
         col = " " * (n-i)
         for j in range(1,i+1):  
             res.append(str(j))
-        result.append(col + " ".join(res))
+        result.append(col + " ".join(res)+col)
     return result
 
 
