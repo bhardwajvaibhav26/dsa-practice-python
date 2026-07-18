@@ -29,10 +29,10 @@ Or
 
 """
 
-import itertools
-def floyd_triangle(n):
-    nums = itertools.count(1)
-    for i in range(1, n+1):
-        print(' '.join(str(next(nums)) for _ in range(i)))
+# import itertools
+# def floyd_triangle(n):
+#     nums = itertools.count(1)
+#     for i in range(1, n+1):
+#         print(' '.join(str(next(nums)) for _ in range(i)))
 
-floyd_triangle(5)
+# floyd_triangle(5)
